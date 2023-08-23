@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dirt
+  - Withered
+  - Stage1
+  - Stage2
+  - Stage3
+  - Car
+  - Equipment
+  - Grass
+  - Fence
+  - Tree
+  - Net
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Net
+  - Water
+  - UI
+  - Equipment
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3884605293
+    locked: 0
